@@ -12,3 +12,8 @@
 .mt {
   margin-top: 130px;
 }
+.div {
+  background: linear-gradient(to left, yellow, green);
+  min-height: 130px;
+  border-radius: 10px;
+}
